@@ -1,0 +1,2 @@
+# JacaScript
+javascript pratices
